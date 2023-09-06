@@ -17,7 +17,7 @@ If ``"per-attachment-blend-state"`` is not enabled:
 
 25.12. "per-attachment-blend-state"
 
-In GPUFragmentState indices in _descriptor_.[targets](https://www.w3.org/TR/webgpu/#dom-gpufragmentstate-targets), may differ in colorState.[blend](https://www.w3.org/TR/webgpu/#dom-gpucolor and/or colorState.[writemask](https://www.w3.org/TR/webgpu/#dom-gpucolortargetstate-writemask)
+In GPUFragmentState indices in _descriptor_.[targets](https://www.w3.org/TR/webgpu/#dom-gpufragmentstate-targets), may differ in colorState.[blend](https://www.w3.org/TR/webgpu/#dom-gpucolortargetstate-blend) and/or colorState.[writemask](https://www.w3.org/TR/webgpu/#dom-gpucolortargetstate-writemask)
 
 ## with the Compatibility Mode flag:
 
