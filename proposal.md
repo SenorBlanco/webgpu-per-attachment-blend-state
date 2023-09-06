@@ -4,8 +4,7 @@
 
 1. To the [GPUFeatureName](https://www.w3.org/TR/webgpu/#gpufeaturename) enum, add:
 
-    "per-attachment-blend-state",
-
+>`"per-attachment-blend-state",`
 
 2. Under the section [validating GPUFragmentState](https://www.w3.org/TR/webgpu/#abstract-opdef-validating-gpufragmentstate), add:
 
