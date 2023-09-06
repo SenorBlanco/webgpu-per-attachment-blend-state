@@ -11,8 +11,7 @@
 
 If ``"per-attachment-blend-state"`` is not enabled:
 
-- colorState.[blend](https://www.w3.org/TR/webgpu/#dom-gpucolor
-tate-blend) must contain the same value for all indices in _descriptor_.[targets](https://www.w3.org/TR/webgpu/#dom-gpufragmentstate-targets)
+- colorState.[blend](https://www.w3.org/TR/webgpu/#dom-gpucolortargetstate-blend) must contain the same value for all indices in _descriptor_.[targets](https://www.w3.org/TR/webgpu/#dom-gpufragmentstate-targets)
 - colorState.[writemask](https://www.w3.org/TR/webgpu/#dom-gpucolortargetstate-writemask) must contain the same value for all indices in _descriptor_.[targets](https://www.w3.org/TR/webgpu/#dom-gpufragmentstate-targets)
 
 3. Under the section [Feature Index](https://www.w3.org/TR/webgpu/#feature-index), add a new section:
